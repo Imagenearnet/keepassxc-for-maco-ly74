@@ -1,4 +1,4 @@
-
+updated Plugin for KeePassXC for macOS - privacy-protection and credit-card-storage is the best KeePassXC for macOS plugin, featuring privacy-protection and credit-card-storage.
 
 
 
